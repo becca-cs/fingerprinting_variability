@@ -1,0 +1,1 @@
+Included here are MATLAB codes which generate numerical (output_numerical_hass3.m) and analytical (output_analytical_hass3.m) solutions for the three-box moist-static-energy-balance model described in "Fingerprinting low-frequency Holocene temperature variability in forced and unforced climate models" (Cleveland Stout et al., 2022, submitted)
